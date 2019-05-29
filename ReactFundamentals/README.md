@@ -14,7 +14,7 @@ React was created and is maintened by Facebook, the formal definition is: **a Ja
    1. Like functions
    2. Input: props, state | Output: UI
    3. Reusable and composable
-   4. <Component/>
+   4. <  Component />
    5. Can manage a private state
 2. Reactive updates
    1. React will react
